@@ -186,6 +186,7 @@ th {
 body {
   position: relative;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-weight: 500;
   font-size: 16px;
   line-height: 2;
   color: #555;
@@ -1823,7 +1824,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #0bff2a;
+  background: #bd0a9c;
 }
 .links-of-blogroll {
   font-size: 13px;
