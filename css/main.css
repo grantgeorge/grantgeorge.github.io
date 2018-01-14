@@ -189,7 +189,7 @@ body {
   font-weight: 500;
   font-size: 17px;
   line-height: 1.625rem;
-  color: #555;
+  color: #333;
   background: #f5f7f9;
 }
 @media (max-width: 767px) {
@@ -941,9 +941,9 @@ pre .javascript .function {
   display: inline-block;
   padding: 0 20px;
   font-size: 14px;
-  color: #555;
+  color: #333;
   background: #fff;
-  border: 2px solid #555;
+  border: 2px solid #333;
   text-decoration: none;
   border-radius: 2px;
   transition-property: background-color;
@@ -968,7 +968,7 @@ pre .javascript .function {
   display: block;
   width: 22px;
   height: 2px;
-  background: #555;
+  background: #333;
   border-radius: 1px;
 }
 .btn-bar+.btn-bar {
@@ -1824,7 +1824,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #85b;
+  background: #175ca8;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2858,7 +2858,7 @@ pre .javascript .function {
 .sidebar-inner {
   box-sizing: border-box;
   width: 240px;
-  color: #555;
+  color: #333;
   background: #fff;
   box-shadow: initial;
   border-radius: initial;
