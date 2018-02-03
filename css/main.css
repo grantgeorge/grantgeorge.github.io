@@ -278,7 +278,7 @@ p {
   margin: 0 0 20px 0;
 }
 a {
-  color: #555;
+  color: $black-light;
   text-decoration: none;
   outline: none;
   border-bottom: 1px solid #999;
@@ -499,7 +499,7 @@ code {
 code {
   padding: 2px 4px;
   word-wrap: break-word;
-  color: #555;
+  color: $black-light;
   background: #eee;
   border-radius: 3px;
   font-size: 15px;
@@ -922,7 +922,7 @@ pre .javascript .function {
 }
 .post-body .tabs ul.nav-tabs li.tab.active a {
   cursor: default;
-  color: #555;
+  color: $black-light;
 }
 .post-body .tabs .tab-content {
   background-color: #fff;
@@ -1462,7 +1462,7 @@ pre .javascript .function {
 .posts-expand .post-title-link {
   display: inline-block;
   position: relative;
-  color: #555;
+  color: $black-light;
   border-bottom: none;
   line-height: 1.2;
   vertical-align: top;
@@ -1579,7 +1579,7 @@ pre .javascript .function {
   display: block;
   line-height: 25px;
   font-size: 14px;
-  color: #555;
+  color: $black-light;
   border-bottom: none;
 }
 .post-nav-item a:hover {
@@ -1673,7 +1673,7 @@ pre .javascript .function {
 }
 .sidebar a {
   color: #999;
-  border-bottom-color: #555;
+  border-bottom-color: $black-light;
 }
 .sidebar a:hover {
   color: #eee;
@@ -1813,7 +1813,7 @@ pre .javascript .function {
   vertical-align: middle;
   margin-right: 10px;
   margin-bottom: 10px;
-  border-bottom-color: #555;
+  border-bottom-color: $black-light;
   font-size: 13px;
 }
 .links-of-author a:before {
@@ -1824,7 +1824,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #175ca8;
+  background: #d679ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -1859,7 +1859,7 @@ pre .javascript .function {
   cursor: pointer;
   border-bottom: 1px solid transparent;
   font-size: 14px;
-  color: #555;
+  color: $black-light;
 }
 .sidebar-nav li:hover {
   color: #fc6423;
@@ -2392,7 +2392,7 @@ pre .javascript .function {
   width: 10px;
   height: 10px;
   opacity: 0.5;
-  background: #555;
+  background: $black-light;
   border: 1px solid #fff;
   border-radius: 50%;
 }
@@ -2883,7 +2883,7 @@ pre .javascript .function {
   clear: both;
 }
 .sidebar a {
-  color: #555;
+  color: $black-light;
 }
 .sidebar a:hover {
   color: #222;
